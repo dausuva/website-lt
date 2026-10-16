@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>Dausuva</title>
+  <rect width="64" height="64" rx="14" fill="#226456"/>
+  <path fill="#fff" fill-rule="evenodd" d="M35 14h8v34h-8v-3c-2 2.5-5 4-8.5 4C18.5 49 13 43 13 35s5.5-14 13.5-14c3.5 0 6.5 1.5 8.5 4V14Zm-7.5 14c-4 0-6.5 2.8-6.5 7s2.5 7 6.5 7 7.5-3 7.5-7-3.5-7-7.5-7Z"/>
+  <circle cx="50" cy="44" r="4" fill="#fff"/>
+</svg>
