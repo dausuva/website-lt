@@ -1,0 +1,36 @@
+# Classroom Manager, by Dausuva Labs
+
+> Windows kompiuterių klasių valdymo programa mokykloms: mokytojas iš savo kompiuterio užrakina ekranus, siunčia pranešimus, dalija ir renka failus, vykdo egzamino režimą ir prižiūri klasės programas bei naujinimus, mokyklos tinkle, be serverio ir debesies paskyros. Programa neperžiūri ir neįrašo mokinių ekranų. Ankstyvoji prieiga; viešo atsisiuntimo nėra.
+
+## Pagrindiniai faktai
+- Gamintojas: Dausuva Labs (Dausuva MB, Vilnius, Lietuva)
+- Palaikomos sistemos: Windows 10, Windows 11
+- Kaina mokyklai: €499 pirmiems metams, vėliau €299 per metus; be mokesčio už kompiuterį
+- Kalbos: anglų ir lietuvių
+- Kaip pradėti: užsisakykite demonstraciją, tada gaukite mokyklai paruoštą individualų paketą
+
+## Svarbiausi puslapiai
+- [Priemonės visai klasei.](https://dausuva.lt/mokykloms/funkcijos/): Mokymo veiksmai mokytojui, administravimo įrankiai IT specialistui ir aiškios programos galimybių ribos.
+- [Informacija mokyklos IT specialistui.](https://dausuva.lt/mokykloms/saugumas/): Architektūra, prieigos teisės, atkūrimas po naujinimo ir patikros prieš diegiant mokykloje.
+- [Privatumas klasėje.](https://dausuva.lt/mokykloms/privatumas/): Mokinių ekranai neperžiūrimi ir neįrašomi. Aiškiai apie administracinius duomenis, kuriuos programa vis tiek tvarko.
+- [Mokyklai pritaikyta pagalba.](https://dausuva.lt/mokykloms/kainos/): Fiksuota pirmų metų diegimo kaina ir pasirenkamas metinis priežiūros pratęsimas. Be mokesčio už kompiuterį. Pradėkite nuo demonstracijos užsakymo.
+- [Trumpi atsakymai į svarbius klausimus.](https://dausuva.lt/mokykloms/duk/): Dažniausi klausimai apie Windows, internetą, ekranų privatumą, prieigos raktus ir individualų paketą.
+- [Faktai, kuriuos galite patikrinti.](https://dausuva.lt/mokykloms/faktai/): Kas įrodyta apie Classroom Manager, kaip tai išbandyta, ko neteigiame ir kaip kiekvieną teiginį patikrinti patiems prieš perkant.
+- [Pirmiausia vienas kompiuteris. Tada klasė.](https://dausuva.lt/mokykloms/pradzia/): Demonstracija, mokyklai paruoštas individualus paketas ir sutartas bandymas prieš platesnį diegimą.
+- [Demonstracinis vaizdo įrašas: kompiuterių klasė iš vieno lango](https://dausuva.lt/mokykloms/demonstracija/): Keturios su puse minutės Classroom Manager darbo: mokytojo Host ir trys mokinių kompiuteriai viename ekrane, su pasakojimu apie kasdienius veiksmus.
+- [Ko dar nedaro ir kaip to paprašyti.](https://dausuva.lt/mokykloms/funkciju-pageidavimai/): Sąžiningas sąrašas, ko Classroom Manager šiandien nedaro (pokalbis, įspėjimai, spausdinimo valdymas, baterija, leidžiamųjų sąrašai), ir kaip pateikti pageidavimą.
+- [Pasikalbėkime apie jūsų klasę.](https://dausuva.lt/mokykloms/kontaktai/): Sutarkime demonstraciją, aptarkime diegimą ar pasirinkime saugų pirmą bandymą.
+
+## Palyginimai su kitais produktais
+- [Classroom Manager palyginimai.](https://dausuva.lt/mokykloms/palyginimas/)
+- [Tas pats darbas, skirtingi būdai.](https://dausuva.lt/mokykloms/palyginimas-skirtingi-budai/)
+- [Classroom Manager ir Faronics Insight greta.](https://dausuva.lt/mokykloms/palyginimas-faronics-insight/)
+- [Classroom Manager ir Impero Education Pro greta.](https://dausuva.lt/mokykloms/palyginimas-impero-education-pro/)
+- [Classroom Manager ir LanSchool greta.](https://dausuva.lt/mokykloms/palyginimas-lanschool/)
+- [Classroom Manager ir Microsoft mokyklos kompiuterių įrankiai greta.](https://dausuva.lt/mokykloms/palyginimas-microsoft-take-a-test/)
+- [Classroom Manager ir NetSupport School greta.](https://dausuva.lt/mokykloms/palyginimas-netsupport-school/)
+- [Classroom Manager ir nuotolinio darbalaukio įrankiai greta.](https://dausuva.lt/mokykloms/palyginimas-nuotolinio-darbalaukio-irankiai/)
+- [Classroom Manager ir Tactical RMM greta.](https://dausuva.lt/mokykloms/palyginimas-tactical-rmm/)
+- [Classroom Manager ir Veyon greta.](https://dausuva.lt/mokykloms/palyginimas-veyon/)
+
+Kiekvienas palyginimas nurodo šaltinius ir jų perskaitymo datą.
