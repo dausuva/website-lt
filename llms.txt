@@ -1,6 +1,6 @@
 # Classroom Manager, by Dausuva Labs
 
-> Windows kompiuterių klasių valdymo programa mokykloms: mokytojas iš savo kompiuterio užrakina ekranus, siunčia pranešimus, dalija ir renka failus, vykdo egzamino režimą ir prižiūri klasės programas bei naujinimus, mokyklos tinkle, be serverio ir debesies paskyros. Programa neperžiūri ir neįrašo mokinių ekranų. Ankstyvoji prieiga; viešo atsisiuntimo nėra.
+> Windows kompiuterių klasių valdymo programa mokykloms: mokytojas iš savo kompiuterio užrakina ekranus, siunčia pranešimus, dalija ir renka failus, vykdo egzamino režimą ir prižiūri klasės programas bei naujinimus, mokyklos tinkle, be serverio ir debesies paskyros. Programa neperžiūri ir neįrašo mokinių ekranų. Ankstyvoji prieiga; Host nemokamai galima gauti „Microsoft Store“, o Client pateikiamas individualiu paketu po demonstracijos.
 
 ## Pagrindiniai faktai
 - Gamintojas: Dausuva Labs (Dausuva MB, Vilnius, Lietuva)
